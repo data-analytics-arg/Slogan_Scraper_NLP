@@ -1,0 +1,1 @@
+# Slogan_Scraper_NLP
